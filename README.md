@@ -1,11 +1,7 @@
-# Pet Adoption Prediction
+# Pet Adoption Prediction – Stanford Pre-Collegiate ML Final Project
 
 <p align="center">
   <img src="assets/stanford-logo.png" alt="Stanford logo" width="130">
-</p>
-
-<p align="center">
-  <img src="assets/pets-banner.png" alt="Pets banner" width="560">
 </p>
 
 <p align="center">
@@ -158,6 +154,10 @@ Because this was an early academic project, there are a few natural limitations:
 ## Why This Project Matters to Me
 
 This repository captures an important stage in my development: learning how to move from curiosity, to data analysis, to model evaluation, to a final presentation. Even though it was built while I was still in high school, it represents real effort in understanding core machine learning ideas and turning them into a complete project.
+
+<p align="center">
+  <img src="assets/pets-banner.png" alt="Pets featured in the project theme" width="420">
+</p>
 
 ## Author
 
